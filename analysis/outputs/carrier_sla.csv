@@ -1,0 +1,5 @@
+carrier,consignments,lost,in_transit,carrier_fault_n,carrier_fault_pct
+DHL,20000,284,1376,270,1.35
+FEDEX,41905,634,1817,634,1.51
+UPS,31596,476,1450,476,1.51
+USPS,31499,465,1365,465,1.48

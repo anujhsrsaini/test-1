@@ -1,0 +1,9 @@
+stage,amount_usd
+gross_gateway_charges,58420500.00
+less_processing_fees,-1582450.00
+less_reserve_holds,-1280000.00
+plus_reserve_releases,1120000.00
+less_dispute_clawbacks,-465500.00
+less_fx_drift,-86550.00
+net_bank_deposits,56126000.00
+variance,0.00

@@ -1,0 +1,7 @@
+# Large binary excluded from git (exceeds GitHub 100 MB per-file limit).
+# Place enterprise_forensic_audit.duckdb from the starter package at the repo root.
+*.duckdb
+*.duckdb-wal
+*.duckdb-shm
+__pycache__/
+.venv/

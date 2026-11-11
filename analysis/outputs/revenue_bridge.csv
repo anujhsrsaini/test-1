@@ -1,0 +1,9 @@
+stage,amount_usd
+gross_gateway_charges,58420500.00
+less_pending_delivery,1821953.84
+less_pending_in_transit,1777293.73
+less_reversed_disputes,442250.00
+gateway_funded_recognized,54379002.43
+plus_non_gateway_recognized,50962797.23
+total_recognized,105341799.66
+variance,0.00
